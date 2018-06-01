@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SelectRepaymentDateDialog</string>
+    <string name="day_every_month">每月%d日</string>
+</resources>

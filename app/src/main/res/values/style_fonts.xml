@@ -1,0 +1,18 @@
+<resources>
+
+    <style name="font_white_17">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+
+    <style name="font_gray_3_17">
+        <item name="android:textColor">#ff333333</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <style name="font_blue_0076FF_17">
+        <item name="android:textColor">#0076FF</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+</resources>
