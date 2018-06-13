@@ -80,12 +80,15 @@ public class PickerView extends View {
     };
 
     public PickerView(Context context) {
-        super(context);
-        init();
+        this(context, null);
     }
 
     public PickerView(Context context, AttributeSet attrs) {
-        super(context, attrs);
+        this(context, attrs, 0);
+    }
+    
+    public PickerView(Context context, AttributeSet attrs, int defStyleAttr) {
+        super(context, attrs, defStyleAttr);
         init();
     }
 
